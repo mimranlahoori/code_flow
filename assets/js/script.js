@@ -28,11 +28,11 @@ function dateDisplay() {
 // let math = Math.random()*999999999
 // let random = Math.floor(math)
 
-// let min = Math.min(0,5,8,6,1,5,7,9,6)
-// let max = Math.max(0,5,8,6,1,5,7,9,6)
-// let round = Math.round(4.3)
+let min = Math.min(0,5,8,6,1,5,7,9,6)
+let max = Math.max(0,5,8,6,1,5,7,9,6)
+let round = Math.round(4.3)
 
-// // document.write(random)
-// document.write(min)
-// document.write(max)
-// document.write(round)
+// document.write(random)
+document.write(min)
+document.write(max)
+document.write(round)
